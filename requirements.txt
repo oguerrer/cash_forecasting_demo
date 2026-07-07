@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+optuna
+xgboost
+u8darts[all]
