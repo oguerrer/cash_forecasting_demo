@@ -14,7 +14,7 @@ The code was developed in Python version 3.12. The required libraries that need 
 - matplotlib (to create plots)
 - optuna (to fine tune the model)
 - xgboost (provides the model to be trained)
-- u8darts[all] (provides time series data structures and an interfacte for XGBoost that makes fine tuning easier; this interface is the same for other models beyond Darts)
+- u8darts[all] (provides time series data structures and an interfacte for XGBoost that makes fine tuning easier; this interface is the same for other models beyond XGBoost)
 
 ### Running
 To use the notebook online, load it using Binder by opening the link: https://mybinder.org/v2/gh/oguerrer/cash_forecasting_demo/HEAD
